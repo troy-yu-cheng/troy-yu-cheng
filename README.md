@@ -28,10 +28,7 @@ Hi — I'm Troy Cheng. I build data-driven web projects, simulations, and resear
 ---
 
 ## 🔭 Featured projects
-
-- **troy-yu-cheng.github.io** — Personal site and blog (Hugo). https://github.com/troy-yu-cheng/troy-yu-cheng.github.io
 - **causalinference-finalproj** — Final project for causal inference in computational social science (Georgetown). https://github.com/troy-yu-cheng/causalinference-finalproj
-- **img-lib** — Library for online image handling. https://github.com/troy-yu-cheng/img-lib
 
 More projects: https://github.com/troy-yu-cheng?tab=repositories
 
