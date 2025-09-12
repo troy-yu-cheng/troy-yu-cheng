@@ -9,14 +9,12 @@ I'm the founder of [ifcommune](https://www.linkedin.com/company/ifcommune/). I w
 If you have any good ideas on this or want to contribute, feel free to contact me. My email is <itischeng0727@gmail.com>
 
 
----
 # My role models
 
 - [Richard Stallman](https://www.stallman.org/)
 - [Linus Torvalds](https://github.com/torvalds)
 - [Ryan Montgomery](https://www.youtube.com/@0dayCTF)
 
----
 # Stacks
 
 - Programming Languages: C++, Python, Java, C, HTML, CSS, JavaScript, R
