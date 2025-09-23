@@ -2,7 +2,7 @@
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)-->
 
-# Troy Yu Cheng
+# Troy Cheng
 
 I'm the founder of [ifcommune](https://www.linkedin.com/company/ifcommune/). I would construct the official web for this company (i.e. an open source project built in public) in next 6 months. If you have any good ideas on this or want to contribute, feel free to contact me. My email is <itischeng0727@gmail.com>
 
