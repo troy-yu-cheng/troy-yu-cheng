@@ -9,7 +9,7 @@ I'm the founder of [ifcommune](https://www.linkedin.com/company/ifcommune/). I w
 # Stacks
 
 - Programming Languages: C++, Python, Java, C, HTML, CSS, JavaScript, R
-- Platforms and Tools: macOS, Windows, Linux, AWS, Git, Vim, Gradle
+- Platforms and Tools: Windows, Linux, AWS, Git, Vim, Gradle
 - Frameworks and Libraries: React, Bootstrap
 
 # Who am I: My Top 5 Clifton Talents
