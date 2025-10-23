@@ -4,7 +4,7 @@
 
 # Troy Cheng
 
-I'm the founder of [ifcommune](https://www.linkedin.com/company/ifcommune/). I would construct the official web for this company (i.e. an open source project built in public) in next 6 months. If you have any good ideas on this or want to contribute, feel free to contact me. My email is <itischeng0727@gmail.com>
+I'm working for [ifcommune](https://www.linkedin.com/company/ifcommune/). I would construct the official web for this company (i.e. an open source project built in public) by Dec 2025. This is an open source project. If you have any good ideas on this or want to contribute, feel free to contact me. My email is <itischeng0727@gmail.com>
 
 # Stacks
 
